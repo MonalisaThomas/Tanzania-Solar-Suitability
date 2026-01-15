@@ -17,7 +17,7 @@ import geemap
 
 ee.Authenticate()
 
-ee.Initialize(project="ee-monalisambilinyi97")
+ee.Initialize(project="")
 
 countries_lev0 = ee.FeatureCollection("FAO/GAUL/2015/level0")
 
