@@ -1,4 +1,4 @@
-# Tanzania Regions Solar Suitability Analysis 
+# Tanzania Regions Solar Potential Analysis 
 
 ## Project Overview
 This project uses **Google Earth Engine (GEE)** and the **ERA5-Land** dataset to map solar energy potential across Tanzania. By analyzing surface solar radiation data, I identified the most suitable regions for renewable energy development.
